@@ -5,11 +5,11 @@ license: apache-2.0
 widget:
 - text: "生活的真谛是[MASK]。"
 ---
-# Zhouwenwang-110M model (Chinese)，one model of [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM).
+# longformer model (Chinese)，one model of [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM).
 We modify the original position code of longformer to rotational position coding，and on the basis of [chinese_roformer_L-12_H-768_A-12.zip](https://github.com/ZhuiyiTechnology/roformer), use 180G of data to continue training
 
 ## Usage
-There is no structure of Longformer-base in [Transformers](https://github.com/huggingface/transformers), you can run follow code to get structure of Zhouwenwang-110M from [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)
+There is no structure of Longformer-base in [Transformers](https://github.com/huggingface/transformers), you can run follow code to get structure of longformer from [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)
 
  ```shell
  git clone https://github.com/IDEA-CCNL/Fengshenbang-LM.git
