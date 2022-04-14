@@ -21,9 +21,9 @@ from fengshen import LongformerModel
 from fengshen import LongformerConfig
 from transformers import BertTokenizer
 
-tokenizer = BertTokenizer.from_pretrained("IDEA-CCNL/longformer_base")
-config = LongformerConfig.from_pretrained("IDEA-CCNL/longformer_base")
-model = LongformerModel.from_pretrained("IDEA-CCNL/longformer_base")
+tokenizer = BertTokenizer.from_pretrained("IDEA-CCNL/Erlangshen-Longformer-110M")
+config = LongformerConfig.from_pretrained("IDEA-CCNL/Erlangshen-Longformer-110M")
+model = LongformerModel.from_pretrained("IDEA-CCNL/Erlangshen-Longformer-110M")
 ```
 
 
