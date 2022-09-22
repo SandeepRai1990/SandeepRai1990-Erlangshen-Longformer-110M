@@ -15,7 +15,7 @@ widget:
 
 善于处理长文本，采用旋转位置编码的中文版1.1亿参数的Longformer
 
-The Chinese version of Longformer, which uses rotating positional encoding and has 110 million parameters, is adept at handling lengthy text.
+The Chinese version of Longformer, which uses rotating positional encoding and has 110M parameters, is adept at handling lengthy text.
 
 ## 模型分类 Model Taxonomy
 
