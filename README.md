@@ -31,7 +31,7 @@ Following the design of Longformer, we performed continual pre-training on the W
 
 ## 使用 Usage
 
-因为[transformers](https://github.com/huggingface/transformers)库中是没有 Zhouwenwang-Unified-110M相关的模型结构的，所以你可以在我们的[Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)中找到并且运行代码。
+因为[transformers](https://github.com/huggingface/transformers)库中是没有Longformer-base相关的模型结构的，所以你可以在我们的[Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)中找到并且运行代码。
 
 Since there is no structure of Longformer-base in [transformers library](https://github.com/huggingface/transformers), you can find the structure of Longformer-base and run the codes in [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM).
 
