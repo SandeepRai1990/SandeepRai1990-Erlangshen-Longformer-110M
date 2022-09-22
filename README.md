@@ -13,9 +13,9 @@ widget:
 
 ## 简介 Brief Introduction
 
-善于处理长文本，采用旋转位置编码的中文版1.1亿参数的Longformer
+善于处理长文本，采用旋转位置编码的中文版1.1亿参数的Longformer-base
 
-The Chinese version of Longformer, which uses rotating positional encoding and has 110M parameters, is adept at handling lengthy text.
+The Chinese Longformer-base (110M), which uses rotating positional encoding, is adept at handling lengthy text.
 
 ## 模型分类 Model Taxonomy
 
@@ -25,9 +25,9 @@ The Chinese version of Longformer, which uses rotating positional encoding and h
 
 ## 模型信息 Model Information
 
-遵循Longformer的设计，我们基于[chinese_roformer_L-12_H-768_A-12](https://github.com/ZhuiyiTechnology/roformer)，在悟道语料库(180 GB版本)上进行了继续预训练。特别的，我们采用旋转位置嵌入(RoPE)来避免预训练语料库的不均匀序列长度问题。
+遵循Longformer-base的设计，我们基于[chinese_roformer_L-12_H-768_A-12](https://github.com/ZhuiyiTechnology/roformer)，在悟道语料库(180 GB版本)上进行了继续预训练。特别的，我们采用旋转位置嵌入(RoPE)来避免预训练语料库的不均匀序列长度问题。
 
-Following the design of Longformer, we performed continual pre-training on the WuDao corpus (180 GB) based on [chinese_roformer_L-12_H-768_A-12](https://github.com/ZhuiyiTechnology/roformer). Particularly, we employed rotational position embedding (RoPE) to avoid the uneven sequence length of the pre-trained corpus.
+Following the design of Longformer-base, we performed continual pre-training on the WuDao corpus (180 GB) based on [chinese_roformer_L-12_H-768_A-12](https://github.com/ZhuiyiTechnology/roformer). Particularly, we employed rotational position embedding (RoPE) to avoid the uneven sequence length of the pre-trained corpus.
 
 ## 使用 Usage
 
