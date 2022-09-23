@@ -21,7 +21,7 @@ The Chinese Longformer-base (110M), which uses rotating positional encoding, is 
 
 |  需求 Demand  | 任务 Task       | 系列 Series      | 模型 Model    | 参数 Parameter | 额外 Extra |
 |  :----:  | :----:  | :----:  | :----:  | :----:  | :----:  |
-| 通用 General  | 自然语言理解 NLU | 二郎神 Erlangshen | Longformeer |      110M      |     -     |
+| 通用 General  | 自然语言理解 NLU | 二郎神 Erlangshen | Longformeer |      110M      |     中文 Chinese     |
 
 ## 模型信息 Model Information
 
