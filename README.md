@@ -8,8 +8,8 @@ widget:
 
 # Erlangshen-Longformer-110M
 
+- Main Page:[Fengshenbang](https://fengshenbang-lm.com/)
 - Github: [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)
-- Docs: [Fengshenbang-Docs](https://fengshenbang-doc.readthedocs.io/)
 
 ## 简介 Brief Introduction
 
